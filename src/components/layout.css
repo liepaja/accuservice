@@ -29,7 +29,7 @@ iframe #player > div.vp-controls-wrapper{
   display: none !important;
 }
 a.eapps-link{
-  content-visibility: hidden !important;
+  clip-path: circle(0);
   pointer-events: none;
   background-size:0px !important;
 }
