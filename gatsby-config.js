@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `AccuService`,
+    description: `I fix and overhaul batteries of bicycles, skateboards, steps, unicycles, scooters, electrical tools and other electrical/battery powered tools and chargers. Fill the form below to get a quote.`,
+    author: `@ernest`,
+    siteUrl: `https://accuservice.eu/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
