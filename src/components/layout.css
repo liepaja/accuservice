@@ -1,8 +1,33 @@
 
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+.flex-child li{
+  text-align: right;
+}
+.flex-child{
+  flex:50%;
+ 
+}
+html{
+  font-family: Roboto;
+}
+span{
+  font-family: Roboto;
+}
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+
 #eapps-google-reviews-457f2b53-ba81-483d-94d6-63f98744baaf > div > a {
   display: none !important;
 }
-
+iframe #player > div.vp-controls-wrapper{
+  display: none !important;
+}
 a.eapps-link{
   content-visibility: hidden !important;
   pointer-events: none;
