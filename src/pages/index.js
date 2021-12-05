@@ -17,7 +17,7 @@ const IndexPage = ()  => {
       </div>
       <div class="flex-child" >
     
-<ul style={{lineHeight: '60%', listStyleType: 'none'}}>
+<ul style={{lineHeight: '40%', listStyleType: 'none'}}>
 <li ><span style={{fontSize: '18px'}}>Louwesweg 1&nbsp;</span></li>
 <li ><span style={{fontSize: '18px'}}>1066 EA, Amsterdam&nbsp;</span></li>
           <li ><span style={{fontSize: '18px'}}>0647493275&nbsp;</span></li>
