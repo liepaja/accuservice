@@ -10,12 +10,12 @@ const IndexPage = ()  => {
   <Layout>
     <Seo title="Home" />
     <br></br>
-    <div class="flex-container">
-      <div class="flex-child">
+    <div className="flex-container">
+      <div className="flex-child">
       <h1 style={{textAlign: 'left'}}>AccuService</h1>
 
       </div>
-      <div class="flex-child" >
+      <div className="flex-child" >
     
 <ul style={{lineHeight: '40%', listStyleType: 'none'}}>
 <li ><span style={{fontSize: '18px'}}>Louwesweg 1&nbsp;</span></li>
@@ -26,16 +26,16 @@ const IndexPage = ()  => {
       </div>
    </div>
    <br></br>
-    <div style={{width:'100%',height:'0px',position:'relative',paddingBottom:'56.250%'}}><iframe src="https://streamable.com/e/gard4n?autoplay=1&nocontrols=1&loop=0&mute=1" frameborder="0" width="100%" height="100%" allowFullScreen allow="autoplay" style={{width:'100%',height:'100%',position:'absolute',left:'0px',top:'0px',overflow:'hidden'}}></iframe></div>    
+    <div style={{width:'100%',height:'0px',position:'relative',paddingBottom:'56.250%'}}><iframe src="https://streamable.com/e/gard4n?autoplay=1&nocontrols=1&loop=0&mute=1" frameBorder="0" width="100%" height="100%" allowFullScreen allow="autoplay" style={{width:'100%',height:'100%',position:'absolute',left:'0px',top:'0px',overflow:'hidden'}}></iframe></div>    
     <br></br>
     <br></br>
     <br></br>
   
-   <div class="flex-container">
-      <div class="flex-child">
+   <div className="flex-container">
+      <div className="flex-child">
         <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/c_scale,w_1607/v1638730531/AccuService/battery.webp" ></img>
       </div>
-      <div class="flex-child">
+      <div className="flex-child">
       <h1 style={{textAlign: 'left'}}>I fix and overhaul batteries of:</h1>
        
         <ul style={{lineHeight: '100%'}}>
@@ -68,11 +68,14 @@ const IndexPage = ()  => {
   </Layout>)
 }
 
-if (document.readyState === "complete") {DoStuffFunction();}
+setTimeout(DoStuffFunction,6000)
 
 function DoStuffFunction(){
-  document.getElementById('eapps-form-1').getElementsByClassName('eapps-form-actions-button')[0].getaddEventListener('click', function () {
-    window.dataLayer.push({'event':'FormSubmit'});
+  document.getElementById("eapps-form-1").querySelectorAll('[eapps-link="buttonSubmit"]')[0].addEventListener('click', function () {
+     window.dataLayer.push({'event':'FormSubmit'});
+    alert(
+      "wow"
+    )
   }, { once: true })
 }
 
