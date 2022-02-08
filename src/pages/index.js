@@ -73,9 +73,7 @@ setTimeout(DoStuffFunction,6000)
 function DoStuffFunction(){
   document.getElementById("eapps-form-1").querySelectorAll('[eapps-link="buttonSubmit"]')[0].addEventListener('click', function () {
      window.dataLayer.push({'event':'FormSubmit'});
-    alert(
-      "wow"
-    )
+   
   }, { once: true })
 }
 
