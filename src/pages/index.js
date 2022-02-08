@@ -68,4 +68,13 @@ const IndexPage = ()  => {
   </Layout>)
 }
 
+if (document.readyState === "complete") {DoStuffFunction();}
+
+function DoStuffFunction(){
+  document.getElementById('eapps-form-1').getElementsByClassName('eapps-form-actions-button')[0].getaddEventListener('click', function () {
+    window.dataLayer.push({'event':'FormSubmit'});
+  }, { once: true })
+}
+
+
 export default IndexPage
