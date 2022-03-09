@@ -20,13 +20,14 @@ const IndexPage = ()  => {
 <ul style={{lineHeight: '40%', listStyleType: 'none'}}>
 <li ><span style={{fontSize: '18px'}}>Westerdok 230&nbsp;</span></li>
 <li ><span style={{fontSize: '18px'}}>1013 BH, Amsterdam&nbsp;</span></li>
-          <li ><span style={{fontSize: '18px'}}>0647493275&nbsp;</span></li>
+          <li ><span style={{fontSize: '18px'}}>0647493275 <b>(Fill the form first)</b></span></li>
           <li ><span style={{fontSize: '18px'}}>info@accuservice.eu&nbsp;</span></li>
           </ul>
       </div>
    </div>
    <br></br>
-    <div style={{width:'100%',height:'0px',position:'relative',paddingBottom:'56.250%'}}><iframe src="https://streamable.com/e/gard4n?autoplay=1&nocontrols=1&loop=0&mute=1" frameBorder="0" width="100%" height="100%" allowFullScreen allow="autoplay" style={{width:'100%',height:'100%',position:'absolute',left:'0px',top:'0px',overflow:'hidden'}}></iframe></div>    
+   <br></br>
+<ElfsightWidget  widgetID="0dfd0621-5b70-4f1b-91ca-55d5d4c6a32d" />
     <br></br>
     <br></br>
     <br></br>
@@ -63,8 +64,7 @@ const IndexPage = ()  => {
 
 <br></br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d155959.8924297995!2d4.763878108967292!3d52.354582834316005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x394ede1b8ab2b23!2sAccuService.Eu!5e0!3m2!1sen!2snl!4v1638639217490!5m2!1sen!2snl" width="100%" height="450" style={{border:'0'}} allowFullScreen="" loading="lazy"></iframe>
-<br></br>
-<ElfsightWidget  widgetID="0dfd0621-5b70-4f1b-91ca-55d5d4c6a32d" />
+
   </Layout>)
 }
 
