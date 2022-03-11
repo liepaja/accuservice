@@ -18,7 +18,7 @@ const IndexPage = ()  => {
       <div className="flex-child" >
     
 <ul style={{lineHeight: '40%', listStyleType: 'none'}}>
-<li ><span style={{fontSize: '18px'}}>Westerdok 230 <b>(alleen op afspraak)</b></span></li>
+<li ><span style={{fontSize: '18px'}}>Westerdok 230 <b>(only by appointment)</b></span></li>
 <li ><span style={{fontSize: '18px'}}>1013 BH, Amsterdam&nbsp;</span></li>
           <li ><span style={{fontSize: '18px'}}>0647493275 <b>(Fill the form first)</b></span></li>
           <li ><span style={{fontSize: '18px'}}>info@accuservice.eu&nbsp;</span></li>
