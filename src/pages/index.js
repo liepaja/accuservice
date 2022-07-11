@@ -42,11 +42,8 @@ const IndexPage = ()  => {
         <ul style={{lineHeight: '100%'}}>
           <li style={{textAlign: 'left'}}><span style={{fontSize: '24px'}}>bicycles&nbsp;</span></li>
           <li style={{textAlign: 'left'}}><span style={{fontSize: '24px'}}>skateboards</span></li>
-          <li style={{textAlign: 'left'}}><span style={{fontSize: '24px'}}>steps&nbsp;</span></li>
-          <li style={{textAlign: 'left'}}><span style={{fontSize: '24px'}}>unicycles&nbsp;</span></li>
-          <li style={{textAlign: 'left'}}><span style={{fontSize: '24px'}}>scooters&nbsp;</span></li>
-          <li style={{textAlign: 'left'}}><span style={{fontSize: '24px'}}>electrical tools</span><br />
-          </li>
+       <br />
+          
         </ul>
         <div><span style={{fontSize: '24px'}}>and other electrical/battery powered tools and chargers. Fill the form below to get a quote.</span></div>
       </div>
