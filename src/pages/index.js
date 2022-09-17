@@ -46,6 +46,8 @@ const IndexPage = ()  => {
           
         </ul>
         <div><span style={{fontSize: '24px'}}>and other electrical/battery powered tools and chargers. Fill the form below to get a quote.</span></div>
+        <br />
+        <div><span style={{fontSize: '24px'}}>Standart inspection cost: 35€</span></div>
       </div>
    </div>
    <br></br>
