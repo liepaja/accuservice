@@ -37,14 +37,14 @@ const IndexPage = ()  => {
         <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/c_scale,w_1607/v1638730531/AccuService/battery.webp" ></img>
       </div>
       <div className="flex-child">
-      <h1 style={{textAlign: 'left'}}>We fix and overhaul batteries of:</h1>
+      <h1 style={{textAlign: 'left'}}>We fix and overhaul batteries of bicycles</h1>
        
-        <ul style={{lineHeight: '100%'}}>
+        {/* <ul style={{lineHeight: '100%'}}>
           <li style={{textAlign: 'left'}}><span style={{fontSize: '24px'}}>bicycles&nbsp;</span></li>
           <li style={{textAlign: 'left'}}><span style={{fontSize: '24px'}}>skateboards</span></li>
        <br />
           
-        </ul>
+        </ul> */}
         <div><span style={{fontSize: '24px'}}>and other electrical/battery powered tools. Fill the form below to get a quote.</span></div>
         <br />
         <div><span style={{fontSize: '24px'}}>Standart inspection cost: 35€</span></div>
