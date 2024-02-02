@@ -8,7 +8,7 @@ const IndexPage = ()  => {
 
   return (
   <Layout>
-    <Seo title="AccuService accu reparatie" />
+    <Seo title="Vanmoof accu reparatie" />
     <br></br>
     <div className="flex-container">
       <div className="flex-child">
