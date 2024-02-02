@@ -9,7 +9,11 @@ const IndexPage = ()  => {
   return (
   <Layout>
     <Seo title="Vanmoof battery repair" />
-    <p>Envanboof</p>
+    <div className="flex-container">
+      <div className="flex-child">
+        <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1706889356/AccuService/vanmoof_bike.png" ></img>
+      </div>
+      </div>
   </Layout>)
 }
 
