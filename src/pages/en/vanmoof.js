@@ -1,7 +1,7 @@
 import * as React from "react"
 import { ElfsightWidget } from 'react-elfsight-widget';
-import Layout from "../components/layout"
-import Seo from "../components/seo"
+import Layout from "../../components/layout"
+import Seo from "../../components/seo"
 import "@fontsource/roboto";
 
 const IndexPage = ()  => {
