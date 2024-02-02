@@ -4,30 +4,26 @@ import { Link } from "gatsby"
 
 const Header = ({ siteTitle }) => (
   <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
+    
   >
-    <div
-      style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
-    </div>
+   <br></br>
+    <div className="flex-container">
+      <div className="flex-child">
+      <h1 style={{textAlign: 'left'}}>AccuService</h1>
+
+      </div>
+      <div className="flex-child" >
+    
+<ul style={{lineHeight: '40%', listStyleType: 'none'}}>
+<li ><span style={{fontSize: '18px'}}>Westerdok 316</span></li>
+<li ><span style={{fontSize: '18px'}}>1013 BH, Amsterdam&nbsp;</span></li>
+          <li ><span style={{fontSize: '18px'}}>0647493275 <b>(Fill in the form first)</b></span></li>
+          <li ><span style={{fontSize: '18px'}}>info@accuservice.eu&nbsp;</span></li>
+          </ul>
+      </div>
+   </div>
+   <br></br>
+   <br></br>
   </header>
 )
 
@@ -35,8 +31,8 @@ Header.propTypes = {
   siteTitle: PropTypes.string,
 }
 
-Header.defaultProps = {
-  siteTitle: ``,
-}
+// Header.defaultProps = {
+//   siteTitle: ``,
+// }
 
 export default Header
