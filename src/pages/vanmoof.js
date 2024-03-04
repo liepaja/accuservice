@@ -17,10 +17,14 @@ const IndexPage = () => {
       {/* <div className="flex-container"> */}
 
       {/* <div className="flex-child"> */}
-      Deze foutcodes duiden op een probleem met de batterij:
+    
+      <div className="flex-container">
+        <div className="flex-child">
+          <div style={{ textAlign: 'center' }}><span style={{ fontSize: '20px' }}>
+      Deze foutcodes duiden op een probleem met de batterij: </span>
       <br></br>
       <br></br>
-      <ul>
+      <ul style={{  display: "inline-block" }}>
   <li>6</li>
   <li>12</li>
   <li>13</li>
@@ -35,8 +39,14 @@ const IndexPage = () => {
 <br></br>
 <br></br>
 
-Reparatiekosten bedragen gemiddeld € 150,-, afhankelijk van het probleem.
+<span style={{ fontSize: '20px' }}>Reparatiekosten bedragen gemiddeld € 150,-, afhankelijk van het probleem.</span>
 
+</div>
+</div>
+</div>
+<br></br>
+<br></br>
+<br></br>
 <br></br>
 <br></br>
 <br></br>

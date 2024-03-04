@@ -4,7 +4,7 @@
   flex-direction: row;
 }
 .flex-child li{
-  text-align: right;
+  text-align: center;
 }
 .flex-child{
   flex:50%;
