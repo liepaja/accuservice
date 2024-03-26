@@ -46,7 +46,7 @@ const IndexPage = () => {
 
           <div className="flex-container">
             <div className="flex-child" style={{ margin: 10 }}>
-              <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1711479570/photo_2024-03-26_19-58-09_liklpd.jpg" />
+              <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1711485693/photo_2024-03-26_21-40-53_y0bn8s.jpg" />
             </div>
             <div className="flex-child" style={{ margin: 10 }}>
               <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1711479570/photo_2024-03-25_01-56-46_mjiuv9.jpg" />
