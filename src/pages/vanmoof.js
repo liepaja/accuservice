@@ -61,7 +61,7 @@ const IndexPage = () => {
           <div className="flex-container">
             <div className="flex-child">
               <div style={{ textAlign: 'center' }}><span style={{ fontSize: '20px' }}>
-                Enkele mogelijke fouten (vaak bestaat het probleem zonder een fout): </span>
+                Enkele mogelijke fouten (vaak bestaat het probleem zonder een foutcode): </span>
                 <br></br>
                 <br></br>
                 <ul style={{ display: "inline-block" }}>
