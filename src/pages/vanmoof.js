@@ -36,91 +36,91 @@ const IndexPage = () => {
               <li>21</li>
             </ul>
           </div>
-          </div>
-          </div>
+        </div>
+      </div>
 
-          <br></br>
-          <span style={{ fontSize: '20px' }}>Nu repareren we ook de elektronica van VanMoof - cartridge, e-shifter, kicklock, kabelboom en oplaadpoort.</span>
+      <br></br>
+      <div style={{ textAlign: 'center' }}> <span style={{ fontSize: '20px' }}>Nu repareren we ook de elektronica van VanMoof - cartridge, e-shifter, kicklock, kabelboom en oplaadpoort.</span>
+      </div>
+      <br></br>
 
-          <br></br>
-
-          <div className="flex-container">
-            <div className="flex-child" style={{ margin: 10 }}>
-              <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1711485693/photo_2024-03-26_21-40-53_y0bn8s.jpg" />
-            </div>
-            <div className="flex-child" style={{ margin: 10 }}>
-              <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1711479570/photo_2024-03-25_01-56-46_mjiuv9.jpg" />
-            </div>
-            <div className="flex-child" style={{ margin: 10 }}>
-              <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1711483165/photo_2024-03-26_20-56-35_zs6jxa.jpg" />
-            </div>
-          </div>
+      <div className="flex-container">
+        <div className="flex-child" style={{ margin: 10 }}>
+          <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1711485693/photo_2024-03-26_21-40-53_y0bn8s.jpg" />
+        </div>
+        <div className="flex-child" style={{ margin: 10 }}>
+          <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1711479570/photo_2024-03-25_01-56-46_mjiuv9.jpg" />
+        </div>
+        <div className="flex-child" style={{ margin: 10 }}>
+          <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1711483165/photo_2024-03-26_20-56-35_zs6jxa.jpg" />
+        </div>
+      </div>
 
 
-          <br></br>
-          <div className="flex-container">
-            <div className="flex-child">
-              <div style={{ textAlign: 'center' }}><span style={{ fontSize: '20px' }}>
-                Enkele mogelijke fouten (vaak bestaat het probleem zonder een foutcode): </span>
-                <br></br>
-                <br></br>
-                <ul style={{ display: "inline-block" }}>
-                  <li>2</li>
-                  <li>4</li>
-                  <li>44</li>
-
-                </ul>
-              </div>
-            </div>
-            </div>
+      <br></br>
+      <div className="flex-container">
+        <div className="flex-child">
+          <div style={{ textAlign: 'center' }}><span style={{ fontSize: '20px' }}>
+            Enkele mogelijke fouten (vaak bestaat het probleem zonder een foutcode): </span>
             <br></br>
-            <div style={{ textAlign: 'center' }}>
-            <span style={{ fontSize: '20px' }}>Reparatiekosten bedragen gemiddeld € 150,-, afhankelijk van het probleem.</span>
+            <br></br>
+            <ul style={{ display: "inline-block" }}>
+              <li>2</li>
+              <li>4</li>
+              <li>44</li>
 
-         </div>
-       
-        
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        {/* </div> */}
-        {/* </div> */}
-
-
-        <ElfsightWidget widgetID="4803340c-c54a-4f24-af34-0032393d3be9" />
-
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-
-        <div className="flex-container">
-          <div className="flex-child">
-            <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1709510923/AccuService/Accu_auxkso.png" />
+            </ul>
           </div>
         </div>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <div className="flex-container">
-          <div className="flex-child">
-            <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1706889356/AccuService/vanmoof_bike.png" />
-          </div>
-        </div>
+      </div>
+      <br></br>
+      <div style={{ textAlign: 'center' }}>
+        <span style={{ fontSize: '20px' }}>Reparatiekosten bedragen gemiddeld € 150,-, afhankelijk van het probleem.</span>
 
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <div className="flex-container">
-          <div className="flex-child">
-            <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1709513341/AccuService/75bebaa8-a74f-42c6-87d2-6762536ec8b6.png" />
-          </div>
+      </div>
+
+
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      {/* </div> */}
+      {/* </div> */}
+
+
+      <ElfsightWidget widgetID="4803340c-c54a-4f24-af34-0032393d3be9" />
+
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+
+      <div className="flex-container">
+        <div className="flex-child">
+          <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1709510923/AccuService/Accu_auxkso.png" />
         </div>
+      </div>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <div className="flex-container">
+        <div className="flex-child">
+          <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1706889356/AccuService/vanmoof_bike.png" />
+        </div>
+      </div>
+
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <div className="flex-container">
+        <div className="flex-child">
+          <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1709513341/AccuService/75bebaa8-a74f-42c6-87d2-6762536ec8b6.png" />
+        </div>
+      </div>
 
 
     </Layout>)
