@@ -75,7 +75,7 @@ const IndexPage = () => {
       </div>
       <br></br>
       <div style={{ textAlign: 'center' }}>
-        <span style={{ fontSize: '20px' }}>Reparatiekosten bedragen gemiddeld € 150,-, afhankelijk van het probleem.</span>
+        <span style={{ fontSize: '20px' }}>Reparatiekosten bedragen gemiddeld € 175,-, afhankelijk van het probleem.</span>
 
       </div>
 
