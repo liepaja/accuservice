@@ -103,7 +103,14 @@ const IndexPage = () => {
           <a href="/vanmoof" ><img style={{ marginBottom: 0, borderRadius: "20px" }} src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1709593246/AccuService/Vanmoff_4_jsl2b9.png" /> </a>
         </div>
       </div>
-
+      <br></br>
+      <br></br>
+<div className="flex-container">
+        <div className="flex-child">
+          {/* <a  href="/vanmoof" ><img src="https://res.cloudinary.com/dge6vq2wh/image/upload/a_-90/c_fill,w_1000,h_90,g_auto/v1706893049/AccuService/Vanmoof_s3_bat.webp"  /> */}
+          <a href="/vanmoofs5" ><img style={{ marginBottom: 0, borderRadius: "20px" }} src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1717695415/AccuService/vanmoofs5.png" /> </a>
+        </div>
+      </div>
       <br></br>
       <br></br>
       <br></br>
