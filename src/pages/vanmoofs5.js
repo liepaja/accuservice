@@ -10,7 +10,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <Seo title="VanMoof accu reparatie" />
-      <Header siteTitle={"VanMoof S5 electronica/ECU reparatie"}></Header>
+      <Header siteTitle={"VanMoof S5 reparatie"}></Header>
       <br></br>
       <br></br>
       <br></br>
