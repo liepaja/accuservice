@@ -52,7 +52,7 @@ const IndexPage = () => {
           <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1717696882/AccuService/photo_2024-06-06_20-00-19_libxdw.jpg" />
         </div>
         <div className="flex-child" style={{ margin: 10 }}>
-          <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1717696881/AccuService/photo_2024-06-06_20-00-31_fwyp0e.jpg" />
+          <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1717696881/AccuService/photo_2024-06-06_20-00-25_dgqhze.jpg" />
         </div>
       </div>
 
@@ -69,10 +69,10 @@ const IndexPage = () => {
     <br></br>
       <div className="flex-container">
         <div className="flex-child" style={{ margin: 10 }}>
-          <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1717696881/AccuService/photo_2024-06-06_20-00-25_dgqhze.jpg" />
+          <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1717696881/AccuService/photo_2024-06-06_20-00-35_nqupcn.jpg" />
         </div>
         <div className="flex-child" style={{ margin: 10 }}>
-          <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1717696881/AccuService/photo_2024-06-06_20-00-35_nqupcn.jpg" />
+          <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1717696881/AccuService/photo_2024-06-06_20-00-31_fwyp0e.jpg" />
         </div>
         <div className="flex-child" style={{ margin: 10 }}>
           <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/v1717696881/AccuService/photo_2024-06-06_20-01-08_leetug.jpg" />
