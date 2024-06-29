@@ -30,7 +30,7 @@ const IndexPage = () => {
           <h2 style={{ textAlign: 'center' }}>Repair and overhaul of bicycle batteries</h2>
 
 
-          <div style={{ textAlign: 'center' }}><span style={{ fontSize: '20px' }}>Standaard inspectiekosten /   Standart inspection cost: 35€</span></div>
+          <div style={{ textAlign: 'center' }}><span style={{ fontSize: '20px' }}>Standaard inspectiekosten /   Standart inspection cost: 45€</span></div>
 
 
           {/* <ul style={{lineHeight: '100%'}}>
