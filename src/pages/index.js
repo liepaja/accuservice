@@ -26,11 +26,11 @@ const IndexPage = () => {
           <img src="https://res.cloudinary.com/dge6vq2wh/image/upload/c_scale,w_1607/v1638730531/AccuService/battery.webp" ></img>
         </div>
         <div className="flex-child">
-          <h1 style={{ textAlign: 'center' }}>Reparatie en revisie van fietsaccu's</h1>
-          <h2 style={{ textAlign: 'center' }}>Repair and overhaul of bicycle batteries</h2>
+          <h1 style={{ textAlign: 'center' }}>Vanmoof / e-bike accu en electronica reparatie</h1>
+          {/* <h2 style={{ textAlign: 'center' }}>Repair and overhaul of bicycle batteries</h2> */}
 
 
-          <div style={{ textAlign: 'center' }}><span style={{ fontSize: '20px' }}>Standaard inspectiekosten /   Standart inspection cost: 45€</span></div>
+          <div style={{ textAlign: 'center' }}><span style={{ fontSize: '20px' }}>Standaard inspectiekosten: 45€</span></div>
 
 
           {/* <ul style={{lineHeight: '100%'}}>
