@@ -41,6 +41,7 @@ const IndexPage = () => {
 
       <br></br>
       <div style={{ textAlign: 'center' }}> <span style={{ fontSize: '30px', fontWeight:800 }}>Reparatie van S5 accus en electronica/ECUs.</span>
+      <span style={{ fontSize: '20px' }}>S5 inspectiekosten: 75€</span>
       </div>
       <br></br>
 
